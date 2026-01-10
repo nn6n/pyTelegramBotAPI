@@ -3,3 +3,4 @@
 furo
 sphinx_copybutton
 git+https://github.com/eternnoir/pyTelegramBotAPI.git
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
